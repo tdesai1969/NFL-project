@@ -1,6 +1,6 @@
 ## NFL-Project
 # Project Description Outline:
-What does it mean when they say a player’s career was cut short? 
+What does it mean when they say a player’s career was cut short? (BoxPlot)
 What is the mean length and standard deviation of the seasons played for a set of offense players?
 What criteria would be best used to predict a future Hall of Fame candidate? (* Players)
 
